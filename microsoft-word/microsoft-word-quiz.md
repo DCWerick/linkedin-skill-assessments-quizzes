@@ -295,6 +295,8 @@ Hint:
 - [x] Rich Text Format (RTF)
 - [ ] plain text (TXT)
 
+[Reference](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference#:~:text=RTF%20controls%20the%20representation%20and%20formatting%20of%20a%20document%2C%20both%20on%20the%20screen%20and%20in%20print.%20When%20they%20use%20the%20.rtf%20file%20format%2C%20documents%20created%20under%20different%20operating%20systems%20and%20with%20different%20software%20applications%20can%20be%20transferred%20between%20those%20operating%20systems%20and%20applications.)
+
 #### Q43. How can you break a table into two parts?
 - [x] Use the Split Table command.
 - [ ] Press Shift + Enter (Windows) or Sift + Return (Mac).
@@ -332,6 +334,8 @@ Each Word document can be saved as a Web Page.
 - [ ] Assume ownership of the document.
 - [ ] Remove access from another user.
 - [ ] Coauthor the document with your colleague.
+
+[Reference](https://support.microsoft.com/en-us/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07#:~:text=When%20you%20share%20items%20with%20this%20type%20of%20link%2C%20people%20can%20edit%20files%2C%20and%20can%20add%20files%20in%20a%20shared%20folder%20if%20they're%20signed%20in%20with%20a%20Microsoft%20account.%20Recipients%20can%20forward%20the%20link%2C%20change%20the%20list%20of%20people%20sharing%20the%20files%20or%20folder%2C%20and%20change%20permissions%20for%20recipients.%20If%20you're%20sharing%20a%20folder%2C%20people%20with%20Edit%20permissions%20can%20copy%2C%20move%2C%20edit%2C%20rename%2C%20share%2C%20and%20delete%20anything%20in%20the%20folder.)
 
 #### Q48. In the image below, what do the red bars next to the text indicate?
 
@@ -419,3 +423,40 @@ D. A flag icon with the colleague's name appears where their edit is being made.
 - [ ] Word scales the image to the largest size possible to fit within the height or width of the page.
 - [ ] Word converts the photo's file format.
 - [ ] Word analyzes and corrects the image for tone and color.
+
+#### Q59. Which ribbon tab allows you to proof your documents and add comments?
+- [ ] Draw
+- [ ] Insert
+- [ ] Design
+- [x] Review
+
+[Reference](https://www.javatpoint.com/ribbon-and-tabs-in-ms-word#:~:text=Review%20tab%3A,%2C%20Changes%2C%20Compare%20and%20Protect.)
+
+#### Q60. When you insert a picture into a document, what happens to the picture?
+- [ ] Word analyzes and corrects the image for tone and color.
+- [ ] Word scales the image to the largest size possible to fit within the height or width of the page.
+- [ ] Word stretches the photo to fill the page.
+- [ ] Word converts the photo's file format.
+
+#### Q61. What happens in this SmartArt diagram when you delete the selected object?
+
+![image](images/001.png)
+
+- [x] The remaining objects resize to maintain the same overall height.
+- [ ] The selected object is deleted and the spacing is preserved where the object was.
+- [ ] The text from the deleted box merges with the next box's text.
+- [ ] The gaps between the boxes close and the boxes remain the same size.
+
+#### Q62. Which page orientation should you select to accommodate a wide chart or table?
+
+- [x] Landscape
+- [ ] Wide
+- [ ] Tall
+- [ ] Portrait
+
+#### Q63. Whats is the quickest way to find out how many paragraph there are in your current word document?
+
+- [x] On the status bar, select Word Count to display file information, including the numbers of paragraphs 
+- [ ] Click File > Properties > Content to display file information, including the number of paragraphs
+- [ ] From the start of the document, hold down the Ctrl (Windows) or Command (Mac) key, and press the Down Arrow Key repeatedly, counting each paragraph as you go.
+- [ ] Click File > Info > Inspect Document to display file information, including the number of paragraphs.
