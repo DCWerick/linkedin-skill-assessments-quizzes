@@ -992,3 +992,34 @@ std::memset(buff,20,50);
 - [x] `CustomData operator++(int);`
 
 [Reference](https://en.cppreference.com/w/cpp/language/operators)
+#### Q59. What is an alternative way to write the expression (*x).y?
+
+- [ ] y->x
+- [ ] There is no equivalent.
+- [ ] *x->y
+- [ ] x->y
+
+#### Q60. How many times does the code inside the while loop get executed in this program?
+
+```cpp
+main () {
+int x=1;
+while(x++<100) {
+   x*=x;
+   if (x<10) continue;
+   if (x>50) break;
+   }
+}
+```
+- [ ] 5
+- [ ] 100
+- [ ] 3
+- [ ] 50
+
+#### Q60. Which is not a correct way to declare a string variable?
+- [ ] char string = "Hello World";
+- [ ] char string[20] = { 'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd'};
+- [ ] char string[] = "Hello World";
+- [ ] char *string = "Hello World";
+
+
